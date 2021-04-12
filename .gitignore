@@ -3,6 +3,12 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+# Éamonn Anthony Duffy Personal Web Site.
+Éamonn Anthony Duffy
+
+# Rapture Web Site.
+Rapture
+
 # User-specific files
 *.rsuser
 *.suo
