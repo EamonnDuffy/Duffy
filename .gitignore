@@ -9,6 +9,9 @@
 # Rapture Web Site.
 Rapture
 
+# .well-known For Certificates and the like.
+.well-known
+
 # User-specific files
 *.rsuser
 *.suo
