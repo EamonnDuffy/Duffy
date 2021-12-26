@@ -3,11 +3,8 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
-# Rapture Web Site.
-Rapture
-
 # .well-known For Certificates and the like.
-.well-known
+.well-known/
 
 # User-specific files
 *.rsuser
